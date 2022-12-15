@@ -1,0 +1,10 @@
+{
+  "name": "KahppaUI",
+  "description": "Steam Deck Theme based off of the KahppaUI design guidelines.",
+  "author": "kahppa#0001",
+  "version": "a1.0",
+  "manifest_version": 3,
+  "inject": {
+    "shared.css": ["SP"]
+  }
+}
