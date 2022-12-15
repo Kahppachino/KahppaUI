@@ -1,0 +1,13 @@
+{
+      "id":"65ff450dde4a81307928103b169a127081f62957e9ec3e2ac7107950ef39f851",
+      "download_url":"https://cdn.beebl.es/file/deck-themes/65ff450dde4a81307928103b169a127081f62957e9ec3e2ac7107950ef39f850.zip",
+      "preview_image":"https://raw.githubusercontent.com/suchmememanyskill/CssLoader-ThemeDb/main/images/SuchMeme/nodeckbadge.jpg",
+      "name":"KahppaUI",
+      "version":"v1.0",
+      "author":"Kahppa",
+      "last_changed":"2022-09-26T23:50:31+02:00",
+      "target":"Tweak",
+      "source":"https://github.com/Kahppachino/KahppaUI",
+      "manifest_version":2,
+      "description":"Testing."
+}
